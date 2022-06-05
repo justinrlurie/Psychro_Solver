@@ -1,0 +1,21 @@
+SOFTWARE LICENSE AGREEMENT
+
+This is an agreement between you, the end user, and Kilowatt Engineering, Inc. dba kW Engineering, Inc. ("KW"). By using this software, you are agreeing to become bound by the terms of this agreement.
+
+IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, ABORT THE INSTALLATION.
+
+1. GRANT OF LICENSE. KW, as Licensor, grants to you, the Licensee, a non-exclusive right to use this software program (hereinafter the "Software") in accordance with the terms contained in this license. You may use the Software free of charge. 
+
+2. OWNERSHIP OF SOFTWARE. KW retains the copyright, title and ownership of the Software and the written materials regardless of the form of media in or on which the original and other copies may exist. 
+
+3. TRANSFERS. You may physically transfer the Software from one of your computers to another computer owned by you. You may not distribute copies of the Software or accompanying written materials to others. Direct others to www.kw-engineering.com where they may download a copy. You may not transfer the Software to anyone without the prior written consent of KW Engineering. In no event may you transfer, assign, rent, lease, sell or otherwise dispose of the Software on a temporary or permanent basis.
+
+4. U.S. GOVERNMENT RESTRICTED RIGHTS. The Software and any accompanying materials are provided with Restricted Rights. Use, duplication or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of The Rights in Technical Data and Computer Software clause at DFARS 252.227-7013, or subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights at 48 CFR 52.227-19, as applicable. Contractor/manufacturer is KW Engineering, 287 17th Street, Suite 300 Oakland, CA 94612.
+
+5. NO WARRANTY. KW provides the software and the documentation without warranty of any kind, either express or implied, including, but not limited to, any implied warranties of merchantability or fitness for a particular purpose or warranties of quality or performance. The user is granted no remedy with respect to the Software, the Documentation or this License. 
+
+IN NO EVENT WILL KW OR ITS EMPLOYEES, AGENTS OR SUPPLIERS BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE OR DOCUMENTATION, INCLUDING, BUT NOT LIMITED TO, ANY DAMAGES FOR LOST PROFITS OR ANTICIPATED BENEFITS, EVEN IF THEY HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Should any other warranties be found to exist, such warranties shall be limited in duration to ninety (90) days following the date of delivery to the Licensee. In no event will KW's liability for any damages to you or any other person exceed the amount paid for the license to use the Software.
+
+6. This License shall be governed and construed in accordance with the laws of the Sate of California and shall benefit Kilowatt Engineering, Inc. dba kW Engineering, its successors and assigns.
